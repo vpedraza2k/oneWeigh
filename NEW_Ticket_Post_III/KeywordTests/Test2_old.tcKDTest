@@ -1,0 +1,1120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="14.0">
+	<TestData Description="" Key="{6AF897BA-5D6A-4167-B6D0-EBE0697B7F32}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps>
+					<Bitmap Name="Aliases.OneWeigh" Data="61717A697000000001000000360400007801BD91C10D83300C45A9C4008CD063276080DEBB5346CB66D4DFF8A180A04D10C292FD0DF6C326797FC6BE731B2DBECC87F047F7B4CC2CEAF3C31227CB4EFB6496523AE59A2BCB3937BB66DEC16FCF865DF7E6D34B8F947728B55FBC7AE98343797FC8DB7996BDE45258E911EF171201866FFCE34B56B96ED7D9D01A5E7BA94FE63C5AB1BF434568E5D96FC5C57C6AE8DEF951ABD12BF9E2979B52DDCD176579BB71" />
+					<Bitmap Name="Aliases.OneWeigh.dlgCustomerNameID" Data="61717A697000000001000000360400007801C591CD4B024118C69FA03FA03FA163C7E8E0A14BD42528A2637436BC4404753028A420F42044501991111925E42582923A4474F250418720A8285A5357F37B77DD8F59B7D955635D45EAE40CCF30C3F0FCE699F71D1AB375C21836BAF6507555D5816EBAA3A37A5F3954560DED9FE1C006A6466CFF9239B5EE57B81C94620672210D39978294652165E290D2319412EF109867706F8FE05E1E8C77AC7E22145A32C4148352EC15FCC753737F89430323FF4DB324698E8491A3C6D0FF6A7D5F1579902A83F0799A250B45FF4B1386D57F75E4832A8B50250144E70845B46258FD37213FCA44FE1B83D6D5EA8F9C1DA2AC92168CFADE58FD771741689AD6C030D7C4DC5FAB3F79E2852E36E801BBBF88F8F62C626B767CB927C0B846C13807F139DFFFAB88BDB7AEFEBA57BB0D40BDF6835CFAA09CAF433EF5420AAD420CBA200416C0EFCD81DF994671CB817B475F83BF962179EC067BB08CC4AE13F1CD994A0ECF24A22BE3882E0DD32C03460E73FFDBB9FF01EBA33263" />
+					<Bitmap Name="Aliases.OneWeigh.frmCUSTADDS" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404D922B144B0E10C6CB81057A8C4861D0760C10A2124248454F16A046D699B571327B6F3E8D8492A135341C1D1781C65FE6FEC1967FFC8E9410F87E65DB2EDC6B6B0432B1ACDF7FAA59E2BFCFF393970B0899D1EEFE9F836F3CD651F72E141443388700A117C82FB63706F043EFF40367945FA3E007B7B40FC748778706BEB63DF629C1DF6560CB55636BC3A47F2726FEB9310D260B8D7173A5E79EE8DF59A4F5DED99FB68E973B640AE1901EDC3D771229CD53A7FA27D9B3F1B3DDBFA3486C950B1329AD71CAA877A37F7A1EA6DD6AFC8187283A1F59D7DB4F9555D2D3D4FD165C84E4DCCDE587A91A1500CCE8893D05EA81E2CC23A46575FE602A5E42834E76786A52F72FC8E41F784EADAD5576581722DE36B6F547F2D7D45DD5831249D453467F9A6AE7160E9D53FB08999F9DB7BF017BF0412313E0E" />
+					<Bitmap Name="Aliases.OneWeigh.frmCUSTADDS.fraNameDesc" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404D922B144B0E10C6CB81057A8C4861D0760C10A2124248454F16A046D699B571327B6F3E8D8492A135341C1D1781C65FE6FEC1967FFC8E9410F87E65DB2EDC6B6B0432B1ACDF7FAA59E2BFCFF393970B0899D1EEFE9F836F3CD651F72E141443388700A117C82FB63706F043EFF40367945FA3E007B7B40FC748778706BEB63DF629C1DF6560CB55636BC3A47F2726FEB9310D260B8D7173A5E79EE8DF59A4F5DED99FB68E973B640AE1901EDC3D771229CD53A7FA27D9B3F1B3DDBFA3486C950B1329AD71CAA877A37F7A1EA6DD6AFC8187283A1F59D7DB4F9555D2D3D4FD165C84E4DCCDE587A91A1500CCE8893D05EA81E2CC23A46575FE602A5E42834E76786A52F72FC8E41F784EADAD5576581722DE36B6F547F2D7D45DD5831249D453467F9A6AE7160E9D53FB08999F9DB7BF017BF0412313E0E" />
+					<Bitmap Name="Aliases.OneWeigh.frmCUSTTKT" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404D922B144B0E10C6CB81057A8C4861D0760C10A2124248454F16A046D699B571327B6F3E8D8492A135341C1D1781C65FE6FEC1967FFC8E9410F87E65DB2EDC6B6B0432B1ACDF7FAA59E2BFCFF393970B0899D1EEFE9F836F3CD651F72E141443388700A117C82FB63706F043EFF40367945FA3E007B7B40FC748778706BEB63DF629C1DF6560CB55636BC3A47F2726FEB9310D260B8D7173A5E79EE8DF59A4F5DED99FB68E973B640AE1901EDC3D771229CD53A7FA27D9B3F1B3DDBFA3486C950B1329AD71CAA877A37F7A1EA6DD6AFC8187283A1F59D7DB4F9555D2D3D4FD165C84E4DCCDE587A91A1500CCE8893D05EA81E2CC23A46575FE602A5E42834E76786A52F72FC8E41F784EADAD5576581722DE36B6F547F2D7D45DD5831249D453467F9A6AE7160E9D53FB08999F9DB7BF017BF0412313E0E" />
+					<Bitmap Name="Aliases.OneWeigh.frmCUSTTKT.Frm_Name" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404D922B144B0E10C6CB81057A8C4861D0760C10A2124248454F16A046D699B571327B6F3E8D8492A135341C1D1781C65FE6FEC1967FFC8E9410F87E65DB2EDC6B6B0432B1ACDF7FAA59E2BFCFF393970B0899D1EEFE9F836F3CD651F72E141443388700A117C82FB63706F043EFF40367945FA3E007B7B40FC748778706BEB63DF629C1DF6560CB55636BC3A47F2726FEB9310D260B8D7173A5E79EE8DF59A4F5DED99FB68E973B640AE1901EDC3D771229CD53A7FA27D9B3F1B3DDBFA3486C950B1329AD71CAA877A37F7A1EA6DD6AFC8187283A1F59D7DB4F9555D2D3D4FD165C84E4DCCDE587A91A1500CCE8893D05EA81E2CC23A46575FE602A5E42834E76786A52F72FC8E41F784EADAD5576581722DE36B6F547F2D7D45DD5831249D453467F9A6AE7160E9D53FB08999F9DB7BF017BF0412313E0E" />
+					<Bitmap Name="Aliases.OneWeigh.frmSUMMARY" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404D922B144B0E10C6CB81057A8C4861D0760C10A2124248454F16A046D699B571327B6F3E8D8492A135341C1D1781C65FE6FEC1967FFC8E9410F87E65DB2EDC6B6B0432B1ACDF7FAA59E2BFCFF393970B0899D1EEFE9F836F3CD651F72E141443388700A117C82FB63706F043EFF40367945FA3E007B7B40FC748778706BEB63DF629C1DF6560CB55636BC3A47F2726FEB9310D260B8D7173A5E79EE8DF59A4F5DED99FB68E973B640AE1901EDC3D771229CD53A7FA27D9B3F1B3DDBFA3486C950B1329AD71CAA877A37F7A1EA6DD6AFC8187283A1F59D7DB4F9555D2D3D4FD165C84E4DCCDE587A91A1500CCE8893D05EA81E2CC23A46575FE602A5E42834E76786A52F72FC8E41F784EADAD5576581722DE36B6F547F2D7D45DD5831249D453467F9A6AE7160E9D53FB08999F9DB7BF017BF0412313E0E" />
+					<Bitmap Name="Aliases.OneWeigh.frmSUMMARY.fraCommands_2" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404D922B144B0E10C6CB81057A8C4861D0760C10A2124248454F16A046D699B571327B6F3E8D8492A135341C1D1781C65FE6FEC1967FFC8E9410F87E65DB2EDC6B6B0432B1ACDF7FAA59E2BFCFF393970B0899D1EEFE9F836F3CD651F72E141443388700A117C82FB63706F043EFF40367945FA3E007B7B40FC748778706BEB63DF629C1DF6560CB55636BC3A47F2726FEB9310D260B8D7173A5E79EE8DF59A4F5DED99FB68E973B640AE1901EDC3D771229CD53A7FA27D9B3F1B3DDBFA3486C950B1329AD71CAA877A37F7A1EA6DD6AFC8187283A1F59D7DB4F9555D2D3D4FD165C84E4DCCDE587A91A1500CCE8893D05EA81E2CC23A46575FE602A5E42834E76786A52F72FC8E41F784EADAD5576581722DE36B6F547F2D7D45DD5831249D453467F9A6AE7160E9D53FB08999F9DB7BF017BF0412313E0E" />
+					<Bitmap Name="Aliases.OneWeigh.frmWEIGHUPD" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404D922B144B0E10C6CB81057A8C4861D0760C10A2124248454F16A046D699B571327B6F3E8D8492A135341C1D1781C65FE6FEC1967FFC8E9410F87E65DB2EDC6B6B0432B1ACDF7FAA59E2BFCFF393970B0899D1EEFE9F836F3CD651F72E141443388700A117C82FB63706F043EFF40367945FA3E007B7B40FC748778706BEB63DF629C1DF6560CB55636BC3A47F2726FEB9310D260B8D7173A5E79EE8DF59A4F5DED99FB68E973B640AE1901EDC3D771229CD53A7FA27D9B3F1B3DDBFA3486C950B1329AD71CAA877A37F7A1EA6DD6AFC8187283A1F59D7DB4F9555D2D3D4FD165C84E4DCCDE587A91A1500CCE8893D05EA81E2CC23A46575FE602A5E42834E76786A52F72FC8E41F784EADAD5576581722DE36B6F547F2D7D45DD5831249D453467F9A6AE7160E9D53FB08999F9DB7BF017BF0412313E0E" />
+					<Bitmap Name="Aliases.OneWeigh.frmWEIGHUPD.fraWeight" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404D922B144B0E10C6CB81057A8C4861D0760C10A2124248454F16A046D699B571327B6F3E8D8492A135341C1D1781C65FE6FEC1967FFC8E9410F87E65DB2EDC6B6B0432B1ACDF7FAA59E2BFCFF393970B0899D1EEFE9F836F3CD651F72E141443388700A117C82FB63706F043EFF40367945FA3E007B7B40FC748778706BEB63DF629C1DF6560CB55636BC3A47F2726FEB9310D260B8D7173A5E79EE8DF59A4F5DED99FB68E973B640AE1901EDC3D771229CD53A7FA27D9B3F1B3DDBFA3486C950B1329AD71CAA877A37F7A1EA6DD6AFC8187283A1F59D7DB4F9555D2D3D4FD165C84E4DCCDE587A91A1500CCE8893D05EA81E2CC23A46575FE602A5E42834E76786A52F72FC8E41F784EADAD5576581722DE36B6F547F2D7D45DD5831249D453467F9A6AE7160E9D53FB08999F9DB7BF017BF0412313E0E" />
+					<Bitmap Name="Aliases.SysMenu" Data="61717A69700000000100000036040000780173F235636100033320A901C40250CCC8A000640101541EC28190A6090CD7ADB218DE596630BC240583F480F4DA1530FCB12F62F84F0E06E905D909D2BB6ACF9CFF3070F0DC0E0CF382EBD460D2FFBF7EFFF21FC487B917A41F5D1EDD3DF336F7C2F5C3CC47D60F527FFDFE45B81A7C8CE6F9D960F7A1EB47B603977E90DB616E43D70FF203481E04DEBC7F09573771652DDCB86D4757C1C5D1F583CC3D73FD285C6DC99408B05A6C6220B5D8F423DB058A13903A989B1E3DBF0BB71B977E74F5D8CC03A9C1A71FE4471800C5150CA4743911653F287ED001286E61F6C2686CFE87C981C21F1980E2162607A3F1E987A9C14783F4539A7F28CDBF0018DF4C7E" />
+					<Bitmap Name="Aliases.SysMenu.frmStdTemplate" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404D922B144B0E10C6CB81057A8C4861D0760C10A2124248454F16A046D699B571327B6F3E8D8492A135341C1D1781C65FE6FEC1967FFC8E9410F87E65DB2EDC6B6B0432B1ACDF7FAA59E2BFCFF393970B0899D1EEFE9F836F3CD651F72E141443388700A117C82FB63706F043EFF40367945FA3E007B7B40FC748778706BEB63DF629C1DF6560CB55636BC3A47F2726FEB9310D260B8D7173A5E79EE8DF59A4F5DED99FB68E973B640AE1901EDC3D771229CD53A7FA27D9B3F1B3DDBFA3486C950B1329AD71CAA877A37F7A1EA6DD6AFC8187283A1F59D7DB4F9555D2D3D4FD165C84E4DCCDE587A91A1500CCE8893D05EA81E2CC23A46575FE602A5E42834E76786A52F72FC8E41F784EADAD5576581722DE36B6F547F2D7D45DD5831249D453467F9A6AE7160E9D53FB08999F9DB7BF017BF0412313E0E" />
+					<Bitmap Name="Aliases.SysMenu.frmStdTemplate_2" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404D922B144B0E10C6CB81057A8C4861D0760C10A2124248454F16A046D699B571327B6F3E8D8492A135341C1D1781C65FE6FEC1967FFC8E9410F87E65DB2EDC6B6B0432B1ACDF7FAA59E2BFCFF393970B0899D1EEFE9F836F3CD651F72E141443388700A117C82FB63706F043EFF40367945FA3E007B7B40FC748778706BEB63DF629C1DF6560CB55636BC3A47F2726FEB9310D260B8D7173A5E79EE8DF59A4F5DED99FB68E973B640AE1901EDC3D771229CD53A7FA27D9B3F1B3DDBFA3486C950B1329AD71CAA877A37F7A1EA6DD6AFC8187283A1F59D7DB4F9555D2D3D4FD165C84E4DCCDE587A91A1500CCE8893D05EA81E2CC23A46575FE602A5E42834E76786A52F72FC8E41F784EADAD5576581722DE36B6F547F2D7D45DD5831249D453467F9A6AE7160E9D53FB08999F9DB7BF017BF0412313E0E" />
+					<Bitmap Name="Aliases.SysMenu.frmStdTemplate_2.ctrl00009_00014fra" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404D922B144B0E10C6CB81057A8C4861D0760C10A2124248454F16A046D699B571327B6F3E8D8492A135341C1D1781C65FE6FEC1967FFC8E9410F87E65DB2EDC6B6B0432B1ACDF7FAA59E2BFCFF393970B0899D1EEFE9F836F3CD651F72E141443388700A117C82FB63706F043EFF40367945FA3E007B7B40FC748778706BEB63DF629C1DF6560CB55636BC3A47F2726FEB9310D260B8D7173A5E79EE8DF59A4F5DED99FB68E973B640AE1901EDC3D771229CD53A7FA27D9B3F1B3DDBFA3486C950B1329AD71CAA877A37F7A1EA6DD6AFC8187283A1F59D7DB4F9555D2D3D4FD165C84E4DCCDE587A91A1500CCE8893D05EA81E2CC23A46575FE602A5E42834E76786A52F72FC8E41F784EADAD5576581722DE36B6F547F2D7D45DD5831249D453467F9A6AE7160E9D53FB08999F9DB7BF017BF0412313E0E" />
+					<Bitmap Name="Aliases.SysMenu.frmSysMenu" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404D922B144B0E10C6CB81057A8C4861D0760C10A2124248454F16A046D699B571327B6F3E8D8492A135341C1D1781C65FE6FEC1967FFC8E9410F87E65DB2EDC6B6B0432B1ACDF7FAA59E2BFCFF393970B0899D1EEFE9F836F3CD651F72E141443388700A117C82FB63706F043EFF40367945FA3E007B7B40FC748778706BEB63DF629C1DF6560CB55636BC3A47F2726FEB9310D260B8D7173A5E79EE8DF59A4F5DED99FB68E973B640AE1901EDC3D771229CD53A7FA27D9B3F1B3DDBFA3486C950B1329AD71CAA877A37F7A1EA6DD6AFC8187283A1F59D7DB4F9555D2D3D4FD165C84E4DCCDE587A91A1500CCE8893D05EA81E2CC23A46575FE602A5E42834E76786A52F72FC8E41F784EADAD5576581722DE36B6F547F2D7D45DD5831249D453467F9A6AE7160E9D53FB08999F9DB7BF017BF0412313E0E" />
+					<Bitmap Name="Aliases.SysMenu.frmSysMenu.Toolbar1" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404D922B144B0E10C6CB81057A8C4861D0760C10A2124248454F16A046D699B571327B6F3E8D8492A135341C1D1781C65FE6FEC1967FFC8E9410F87E65DB2EDC6B6B0432B1ACDF7FAA59E2BFCFF393970B0899D1EEFE9F836F3CD651F72E141443388700A117C82FB63706F043EFF40367945FA3E007B7B40FC748778706BEB63DF629C1DF6560CB55636BC3A47F2726FEB9310D260B8D7173A5E79EE8DF59A4F5DED99FB68E973B640AE1901EDC3D771229CD53A7FA27D9B3F1B3DDBFA3486C950B1329AD71CAA877A37F7A1EA6DD6AFC8187283A1F59D7DB4F9555D2D3D4FD165C84E4DCCDE587A91A1500CCE8893D05EA81E2CC23A46575FE602A5E42834E76786A52F72FC8E41F784EADAD5576581722DE36B6F547F2D7D45DD5831249D453467F9A6AE7160E9D53FB08999F9DB7BF017BF0412313E0E" />
+				</NodeBitmaps>
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{66F32D5F-A5DB-420E-9CB4-3DB7CADE2692}">
+				<Data Description="Runs the &quot;SysMenu&quot; tested application." TestedApp="SysMenu">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Count" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="1" />
+						<Parameter Name="IgnoreRunning" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="True" />
+						<Parameter Name="Timeout" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="371" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="18" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.SysMenu.frmStdTemplate;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Down][Down][Up][Enter]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.SysMenu.frmStdTemplate.ctrl99999_99999mhg;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="6" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.SysMenu.frmStdTemplate_2.ctrl00009_00014fra.ctrl00010_00030txt;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.SysMenu.frmStdTemplate_2.ctrl00009_00014fra.ctrl00010_00030txt;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="6" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.SysMenu.frmStdTemplate_2.ctrl00009_00014fra.ctrl00012_00030txt;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Enter]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.SysMenu.frmStdTemplate_2.ctrl00009_00014fra.ctrl00012_00030txt;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the %p1 item of the &apos;%n&apos; toolbar." Action="ClickItem">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Item" DefVarType="12" VarType="3" ValueType="1" ValueValue="103" />
+						<Parameter Name="ByPosition" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.SysMenu.frmSysMenu.Toolbar1.msvb_lib_toolbar;" />
+				</Data>
+			</Operation>
+			<Operation Type="{CE294ABA-E13B-4B94-AFC8-FA8F4249123D}">
+				<Data Description="Moves the mouse cursor to the menu item specified and then simulates a single click." Action="Click" MenuType="2" PreferredMenu="PopupMenu">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Ticket Entry&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.SysMenu.frmSysMenu;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<CommonData Disabled="True" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmSUMMARY.fraCommands_2.cmdAdd;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<CommonData Disabled="True" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmSUMMARY.fraCommands_2.Cmd_Cust;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="24" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="8" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmCUSTTKT.Frm_Name.Txt_Name;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="VP-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmCUSTTKT.Frm_Name.Txt_Name;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="2000" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Enter]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmCUSTTKT.Frm_Name.Txt_Name;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmCUSTTKT.Frm_Name.Txt_Name;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="2000" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="145" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="55" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.dlgCustomerNameID;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Drags from point (%p1, %p2) of the &apos;%n&apos; object to offset (%p3, %p4)." Action="Drag">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" VarType="3" ValueType="1" ValueValue="138" />
+						<Parameter Name="ClientY" DefVarType="3" VarType="3" ValueType="1" ValueValue="8" />
+						<Parameter Name="toX" DefVarType="3" VarType="3" ValueType="1" ValueValue="-199" />
+						<Parameter Name="toY" DefVarType="3" VarType="3" ValueType="1" ValueValue="-17" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.dlgCustomerNameID;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Enter]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.dlgCustomerNameID.btnYes;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="201" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="9" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmCUSTADDS.fraNameDesc.txtNameDesc;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="Vince" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmCUSTADDS.fraNameDesc.txtNameDesc;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<CommonData Disabled="True" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmCUSTADDS.cmdOk;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="2000" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<CommonData Disabled="True" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmCUSTTKT.fraCommands_2.Cmd_Cancel_2;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="2000" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="158" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="5" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmSUMMARY.fraMain.Frm_Name_3.Txt_Name_3;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="VP-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmSUMMARY.fraMain.Frm_Name_3.Txt_Name_3;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="158" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="5" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmSUMMARY.fraMain.Frm_Name_3.Txt_Name_3;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="Vince" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmSUMMARY.fraMain.Frm_Name_3.Txt_Name_3;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmSUMMARY.fraMain.Frm_Name_3.Txt_Name_3;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<CommonData Disabled="True" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmSUMMARY.fraMain.Frm_Name_3.Cmd_NmDrop_3;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<CommonData Disabled="True" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmSUMMARY.fraMain.Frm_Name_3.Cmd_NmDrop_3;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the %p1 item of the &apos;%n&apos; list box." Action="ClickItem">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Vince&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;VP-1&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;90324" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmSUMMARY.Lst_Name_2;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="500" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmSUMMARY.fraMain.Frm_Name_2.Txt_Name_2;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<CommonData Disabled="True" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmSUMMARY.fraMain.Frm_Com.Cmd_ComDrop;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="500" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the %p1 item of the &apos;%n&apos; list box." Action="ClickItem">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="06&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;06" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmSUMMARY.Lst_Com;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmSUMMARY.cmdWeigh;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="2345" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmWEIGHUPD.fraWeight.txtWeight;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Enter]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmWEIGHUPD.fraInOut.optInOut_2;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmSUMMARY.cmdWeigh;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="500" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="1234" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmWEIGHUPD.fraWeight.txtWeight;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Enter]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmWEIGHUPD.fraWeight.txtWeight;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmSUMMARY.fraCommands_2.Cmd_Print;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="3000" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the %p2 subitem of the %p1 item of the &apos;%n&apos; list view." Action="ClickItem" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="A35" />
+						<Parameter Name="Param2" DefVarType="0" VarType="8" ValueType="6" ValueValue="1885" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmBinAssignment.lvwAvail;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1" Initialized="True">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmBinAssignment.cmdAdd;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1" Initialized="True">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmBinAssignment.cmdOk;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1" Initialized="True">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmSUMMARY.fraCommands_2.Cmd_Print;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1" Initialized="True">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmPrelim.fraPrelim.Cmd_Ok;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; radio button." Action="ClickButton" InvokeKind="-1" Initialized="True">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmPRINTF.fraOutputDevice.optDevice;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<CommonData Disabled="True" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmPRINTF.cmdOK;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="^c" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.dlgDocumentNumbers.Edit;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1" Initialized="True">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.dlgDocumentNumbers.btnOK;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="7000" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1" Initialized="True">
+					<CommonData Disabled="True" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmSUMMARY.fraCommands_2.Cmd_Cancel_2;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="247" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="139" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmSUMMARY.fraMain.fraGrades_2;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="341" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="14" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmSUMMARY;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmSUMMARY.fraCommands_2.cmdAdd;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmSUMMARY.fraCommands_2.Cmd_Cust;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="18" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="7" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmCUSTTKT.Frm_Name.Txt_Name;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="VP-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmCUSTTKT.Frm_Name.Txt_Name;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Enter]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmCUSTTKT.Frm_Name.Txt_Name;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="500" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmCUSTTKT.Frm_Name.Txt_Name;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="500" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Drags from point (%p1, %p2) of the &apos;%n&apos; object to offset (%p3, %p4)." Action="Drag">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" VarType="3" ValueType="1" ValueValue="128" />
+						<Parameter Name="ClientY" DefVarType="3" VarType="3" ValueType="1" ValueValue="8" />
+						<Parameter Name="toX" DefVarType="3" VarType="3" ValueType="1" ValueValue="-179" />
+						<Parameter Name="toY" DefVarType="3" VarType="3" ValueType="1" ValueValue="-49" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.dlgCustomerNameID;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.dlgCustomerNameID.btnYes;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="77" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="10" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmCUSTADDS.fraNameDesc.txtNameDesc;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="500" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="Vince" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmCUSTADDS.fraNameDesc.txtNameDesc;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmCUSTADDS.cmdOk;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="2000" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the %p1 item of the &apos;%n&apos; list box." Action="ClickItem">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="06&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;06" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmSUMMARY.Lst_Com;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmSUMMARY.cmdWeigh;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="2345" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmWEIGHUPD.fraWeight.txtWeight;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Enter]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmWEIGHUPD.fraInOut.optInOut_2;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmSUMMARY.cmdWeigh;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="500" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="1234" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmWEIGHUPD.fraWeight.txtWeight;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Enter]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmWEIGHUPD.fraWeight.txtWeight;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmSUMMARY.fraCommands_2.Cmd_Print;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="3000" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the %p2 subitem of the %p1 item of the &apos;%n&apos; list view." Action="ClickItem" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="A35" />
+						<Parameter Name="Param2" DefVarType="0" VarType="8" ValueType="6" ValueValue="1885" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmBinAssignment.lvwAvail;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1" Initialized="True">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmBinAssignment.cmdAdd;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1" Initialized="True">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmBinAssignment.cmdOk;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1" Initialized="True">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmSUMMARY.fraCommands_2.Cmd_Print;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1" Initialized="True">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmPrelim.fraPrelim.Cmd_Ok;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; radio button." Action="ClickButton" InvokeKind="-1" Initialized="True">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmPRINTF.fraOutputDevice.optDevice;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1" Initialized="True">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.frmPRINTF.cmdOK;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="^c" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.dlgDocumentNumbers.Edit;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1" Initialized="True">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.dlgDocumentNumbers.btnOK;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="7000" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object with the right mouse button." Action="ClickR" InvokeKind="-1" Initialized="True">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="711" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="9" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.explorer.wndShell_TrayWnd.ReBarWindow32.MSTaskSwWClass.MSTaskListWClass;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click" InvokeKind="-1" Initialized="True">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="59" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="17" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Microsoft_Windows_ShellExperienceHost.Jump_List_for_AGRIS.Actions.Close_window.Close_window;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="3000" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{66F32D5F-A5DB-420E-9CB4-3DB7CADE2692}">
+				<Data Description="Runs the &quot;SysMenu&quot; tested application." TestedApp="SysMenu">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Count" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="1" />
+						<Parameter Name="IgnoreRunning" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="True" />
+						<Parameter Name="Timeout" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys" InvokeKind="-1" Initialized="True">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="[Down][Down][Enter]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.SysMenu.frmStdTemplate.ctrl99999_99999mhg;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close" InvokeKind="-1" Initialized="True">
+					<CommonData Disabled="True" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.SysMenu.frmStdTemplate;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click" InvokeKind="-1" Initialized="True">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="236" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="89" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.SysMenu.frmStdTemplate.ctrl99999_99999mhg;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1" Initialized="True">
+					<CommonData Disabled="True" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.SysMenu.frmStdTemplate.ctrl00030_00062cmd;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText" InvokeKind="-1" Initialized="True">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="6" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.SysMenu.frmStdTemplate_2.ctrl00009_00014fra.ctrl00010_00030txt;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys" InvokeKind="-1" Initialized="True">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="[Tab]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.SysMenu.frmStdTemplate_2.ctrl00009_00014fra.ctrl00010_00030txt;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText" InvokeKind="-1" Initialized="True">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="6" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.SysMenu.frmStdTemplate_2.ctrl00009_00014fra.ctrl00012_00030txt;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys" InvokeKind="-1" Initialized="True">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="[Enter]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.SysMenu.frmStdTemplate_2.ctrl00009_00014fra.ctrl00012_00030txt;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the %p1 item of the &apos;%n&apos; toolbar." Action="ClickItem" InvokeKind="-1" Initialized="True">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="102" />
+						<Parameter Name="Param2" DefVarType="0" VarType="11" ValueType="7" ValueValue="False" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.SysMenu.frmSysMenu.Toolbar1.msvb_lib_toolbar;" />
+				</Data>
+			</Operation>
+			<Operation Type="{CE294ABA-E13B-4B94-AFC8-FA8F4249123D}">
+				<Data Description="Moves the mouse cursor to the menu item specified and then simulates a single click." Action="Click" MenuType="2" PreferredMenu="PopupMenu">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Name/Address Maintenance&#32;&#32;|View/Edit Name Id&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.SysMenu.frmSysMenu;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText" InvokeKind="-1" Initialized="True">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="VP-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.SysMenu.frmStdTemplate.ctrl00004_00002fra.ctrl00006_00022txt;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys" InvokeKind="-1" Initialized="True">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="[Enter]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.SysMenu.frmStdTemplate.ctrl00004_00002fra.ctrl00006_00022txt;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="2000" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1" Initialized="True">
+					<CommonData Disabled="True" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.SysMenu.frmStdTemplate.ctrl00030_00080cmd;" />
+				</Data>
+			</Operation>
+			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.SysMenu.frmStdTemplate.ctrl00001_00027txt" />
+						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="wText" />
+						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="VP-1&#32;&#32;&#32;&#32;&#32;&#32;" />
+						<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1" Initialized="True">
+					<CommonData Disabled="True" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.SysMenu.frmStdTemplate.ctrl00030_00089cmd;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1" Initialized="True">
+					<CommonData Disabled="True" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.SysMenu.frmStdTemplate.ctrl00030_00089cmd;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close" InvokeKind="-1" Initialized="True">
+					<CommonData Disabled="True" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.SysMenu.frmStdTemplate;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object with the right mouse button." Action="ClickR" InvokeKind="-1" Initialized="True">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="716" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="25" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.explorer.wndShell_TrayWnd.ReBarWindow32.MSTaskSwWClass.MSTaskListWClass;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click" InvokeKind="-1" Initialized="True">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="48" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="20" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Microsoft_Windows_ShellExperienceHost.Jump_List_for_AGRIS.Actions.Close_window.Close_window;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="145" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="55" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.dlgCustomerNameID;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Drags from point (%p1, %p2) of the &apos;%n&apos; object to offset (%p3, %p4)." Action="Drag" InvokeKind="-1" Initialized="True">
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="138" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="8" />
+						<Parameter Name="Param3" DefVarType="0" VarType="3" ValueType="1" ValueValue="-199" />
+						<Parameter Name="Param4" DefVarType="0" VarType="3" ValueType="1" ValueValue="-17" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.OneWeigh.dlgCustomerNameID;" />
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Variables Version="3" Key="{6BA97F04-2BDA-4538-AC31-16B757CF048A}" />
+	<Parameters Key="{5C6336F3-ADF1-452E-8952-772E3AA5B54E}" />
+</Root>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{DA6D7EF7-5B05-4735-AAF0-A85E47D47989}" version="14.0">
+	<children>
+		<child name="Edit" key="{0FC4321D-9EDF-4FF9-9E56-82DF430BACAC}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="14.0" caption="Edit" ID="{0FC4321D-9EDF-4FF9-9E56-82DF430BACAC}" FileName="Regions\Edit.png" Update="False" />
+		</child>
+		<child name="Edit1" key="{6F78C03B-BA50-4689-AB85-76B710BB291E}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="14.0" caption="Edit1" ID="{6F78C03B-BA50-4689-AB85-76B710BB291E}" FileName="Regions\Edit1.png" Update="False" />
+		</child>
+		<child name="Edit2" key="{0A356839-31CE-493F-947F-01AE2FA26515}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="14.0" caption="Edit2" ID="{0A356839-31CE-493F-947F-01AE2FA26515}" FileName="Regions\Edit2.png" Update="False" />
+		</child>
+		<child name="Edit3" key="{7640DC0B-3828-4C08-B203-E0C882754941}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="14.0" caption="Edit3" ID="{7640DC0B-3828-4C08-B203-E0C882754941}" FileName="Regions\Edit3.png" Update="False" />
+		</child>
+		<child name="Edit4" key="{0E1EFE61-387B-49C1-9357-5173F7D7191B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="14.0" caption="Edit4" ID="{0E1EFE61-387B-49C1-9357-5173F7D7191B}" FileName="Regions\Edit4.png" Update="True" />
+		</child>
+		<child name="Edit5" key="{C624913C-8CEE-4DC9-AB8C-2ADD335C9CF8}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="14.0" caption="Edit5" ID="{C624913C-8CEE-4DC9-AB8C-2ADD335C9CF8}" FileName="Regions\Edit5.png" Update="False" />
+		</child>
+		<child name="ctrl00009_00001fra" key="{ACC0D6CB-7F77-4C07-8DAB-534EFF162ECB}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="14.0" caption="ctrl00009_00001fra" ID="{ACC0D6CB-7F77-4C07-8DAB-534EFF162ECB}" FileName="Regions\ctrl00009_00001fra.png" Update="False" />
+		</child>
+	</children>
+</Root>

@@ -1,0 +1,2251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="message 26">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi83747875799659.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.6966666667"/>
+					<Prp name="line #" type="I" value="28"/>
+					<Prp name="object right" type="I" value="287"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="418"/>
+					<Prp name="click point x" type="I" value="238"/>
+					<Prp name="object left" type="I" value="195"/>
+					<Prp name="click point y" type="I" value="399"/>
+					<Prp name="object top" type="I" value="390"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmPrelim.fraPrelim.Cmd_Ok"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage25.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.7324735648"/>
+					<Prp name="line #" type="I" value="28"/>
+					<Prp name="object right" type="I" value="287"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="414"/>
+					<Prp name="click point x" type="I" value="241"/>
+					<Prp name="object left" type="I" value="195"/>
+					<Prp name="click point y" type="I" value="400"/>
+					<Prp name="object top" type="I" value="386"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmPrelim.fraPrelim.Cmd_Ok"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage25_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="28"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.OneWeigh.frmPrelim.fraPrelim.Cmd_Ok&#xA;(Sys.Process(&quot;OneWeigh&quot;).VBObject(&quot;frmPrelim&quot;).VBObject(&quot;fraPrelim&quot;).VBObject(&quot;Cmd_Ok&quot;))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="26"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="28"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.5658075926"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 16">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi83601062799631.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.6949652778"/>
+					<Prp name="line #" type="I" value="17"/>
+					<Prp name="object right" type="I" value="375"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="82"/>
+					<Prp name="click point x" type="I" value="310"/>
+					<Prp name="object left" type="I" value="283"/>
+					<Prp name="click point y" type="I" value="70"/>
+					<Prp name="object top" type="I" value="54"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmWEIGHUPD.cmdOk"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage15.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.7323310995"/>
+					<Prp name="line #" type="I" value="17"/>
+					<Prp name="object right" type="I" value="375"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="82"/>
+					<Prp name="click point x" type="I" value="329"/>
+					<Prp name="object left" type="I" value="283"/>
+					<Prp name="click point y" type="I" value="68"/>
+					<Prp name="object top" type="I" value="54"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmWEIGHUPD.cmdOk"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage15_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="17"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.OneWeigh.frmWEIGHUPD.cmdOk&#xA;(Sys.Process(&quot;OneWeigh&quot;).VBObject(&quot;frmWEIGHUPD&quot;).VBObject(&quot;cmdOk&quot;))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="16"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="17"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.5656652431"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="units">
+			<Prp name="unit 0" type="S" value="{BE5B3011-13B9-4C3F-A014-C32A073394CD}"/>
+		</Node>
+		<Node name="message 14">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi83597281799628.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.6949305556"/>
+					<Prp name="line #" type="I" value="15"/>
+					<Prp name="object right" type="I" value="139"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="76"/>
+					<Prp name="click point x" type="I" value="-2"/>
+					<Prp name="object left" type="I" value="17"/>
+					<Prp name="click point y" type="I" value="-164"/>
+					<Prp name="object top" type="I" value="57"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmWEIGHUPD.fraWeight.txtWeight"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage13.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.7323264699"/>
+					<Prp name="line #" type="I" value="15"/>
+					<Prp name="object right" type="I" value="139"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="76"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="17"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="57"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmWEIGHUPD.fraWeight.txtWeight"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage13_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="15"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.OneWeigh.frmWEIGHUPD.fraWeight.txtWeight&#xA;(Sys.Process(&quot;OneWeigh&quot;).VBObject(&quot;frmWEIGHUPD&quot;).VBObject(&quot;fraWeight&quot;).VBObject(&quot;txtWeight&quot;))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="14"/>
+			<Prp name="message" type="S" value="The text '2345' was entered in the text editor."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="15"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.5656604977"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 9">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi8357790679966.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.6946990741"/>
+					<Prp name="line #" type="I" value="9"/>
+					<Prp name="object right" type="I" value="283"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="65"/>
+					<Prp name="click point x" type="I" value="263"/>
+					<Prp name="object left" type="I" value="256"/>
+					<Prp name="click point y" type="I" value="52"/>
+					<Prp name="object top" type="I" value="40"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmSUMMARY.fraMain.Frm_Name_3.Cmd_NmDrop_3"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage8.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.7322904745"/>
+					<Prp name="line #" type="I" value="9"/>
+					<Prp name="object right" type="I" value="283"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="61"/>
+					<Prp name="click point x" type="I" value="269"/>
+					<Prp name="object left" type="I" value="256"/>
+					<Prp name="click point y" type="I" value="48"/>
+					<Prp name="object top" type="I" value="36"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmSUMMARY.fraMain.Frm_Name_3.Cmd_NmDrop_3"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage8_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="9"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.OneWeigh.frmSUMMARY.fraMain.Frm_Name_3.Cmd_NmDrop_3&#xA;(Sys.Process(&quot;OneWeigh&quot;).VBObject(&quot;frmSUMMARY&quot;).VBObject(&quot;fraMain&quot;).VBObject(&quot;Frm_Name_3&quot;).VBObject(&quot;Cmd_NmDrop_3&quot;))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="9"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="9"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.5656247338"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 17">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi83660984799634.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.6956597222"/>
+					<Prp name="line #" type="I" value="19"/>
+					<Prp name="object right" type="I" value="696"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="167"/>
+					<Prp name="click point x" type="I" value="636"/>
+					<Prp name="object left" type="I" value="573"/>
+					<Prp name="click point y" type="I" value="143"/>
+					<Prp name="object top" type="I" value="123"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmSUMMARY.cmdWeigh"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage16.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.7323398958"/>
+					<Prp name="line #" type="I" value="19"/>
+					<Prp name="object right" type="I" value="696"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="163"/>
+					<Prp name="click point x" type="I" value="634"/>
+					<Prp name="object left" type="I" value="573"/>
+					<Prp name="click point y" type="I" value="141"/>
+					<Prp name="object top" type="I" value="119"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmSUMMARY.cmdWeigh"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage16_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="19"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.OneWeigh.frmSUMMARY.cmdWeigh&#xA;(Sys.Process(&quot;OneWeigh&quot;).VBObject(&quot;frmSUMMARY&quot;).VBObject(&quot;cmdWeigh&quot;))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="17"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="19"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.5656741551"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 19">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi83664296799638.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.6957060185"/>
+					<Prp name="line #" type="I" value="21"/>
+					<Prp name="object right" type="I" value="139"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="76"/>
+					<Prp name="click point x" type="I" value="-2"/>
+					<Prp name="object left" type="I" value="17"/>
+					<Prp name="click point y" type="I" value="-164"/>
+					<Prp name="object top" type="I" value="57"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmWEIGHUPD.fraWeight.txtWeight"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage18.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.732346956"/>
+					<Prp name="line #" type="I" value="21"/>
+					<Prp name="object right" type="I" value="139"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="76"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="17"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="57"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmWEIGHUPD.fraWeight.txtWeight"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage18_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="21"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.OneWeigh.frmWEIGHUPD.fraWeight.txtWeight&#xA;(Sys.Process(&quot;OneWeigh&quot;).VBObject(&quot;frmWEIGHUPD&quot;).VBObject(&quot;fraWeight&quot;).VBObject(&quot;txtWeight&quot;))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="19"/>
+			<Prp name="message" type="S" value="The text '123' was entered in the text editor."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="21"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.5656807523"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 1">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi835267817323.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.6941087963"/>
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="object right" type="I" value="536"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="486"/>
+					<Prp name="click point x" type="I" value="-24"/>
+					<Prp name="object left" type="I" value="99"/>
+					<Prp name="click point y" type="I" value="-46"/>
+					<Prp name="object top" type="I" value="179"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.SysMenu.frmStdTemplate.ctrl99999_99999mhg"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage0.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.7321334375"/>
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="object right" type="I" value="536"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="486"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="99"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="179"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.SysMenu.frmStdTemplate.ctrl99999_99999mhg"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage0_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="'[Down][Up][Enter]' was sent as a keyboard input to the following window or control.&#xA;&#xA;Tested object:&#xA;Aliases.SysMenu.frmStdTemplate.ctrl99999_99999mhg&#xA;(Sys.Process(&quot;SysMenu&quot;, 2).VBObject(&quot;frmStdTemplate&quot;).VBObject(&quot;ctrl99999_99999mhg&quot;))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="1"/>
+			<Prp name="message" type="S" value="Keyboard input."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="1"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.565470706"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 20">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi83665718799639.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.6957175926"/>
+					<Prp name="line #" type="I" value="22"/>
+					<Prp name="object right" type="I" value="375"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="82"/>
+					<Prp name="click point x" type="I" value="321"/>
+					<Prp name="object left" type="I" value="283"/>
+					<Prp name="click point y" type="I" value="68"/>
+					<Prp name="object top" type="I" value="54"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmWEIGHUPD.cmdOk"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage19.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.7323488079"/>
+					<Prp name="line #" type="I" value="22"/>
+					<Prp name="object right" type="I" value="375"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="82"/>
+					<Prp name="click point x" type="I" value="329"/>
+					<Prp name="object left" type="I" value="283"/>
+					<Prp name="click point y" type="I" value="68"/>
+					<Prp name="object top" type="I" value="54"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmWEIGHUPD.cmdOk"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage19_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="22"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.OneWeigh.frmWEIGHUPD.cmdOk&#xA;(Sys.Process(&quot;OneWeigh&quot;).VBObject(&quot;frmWEIGHUPD&quot;).VBObject(&quot;cmdOk&quot;))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="20"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="22"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.5656827199"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 12">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi83585187799617.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.6947916667"/>
+					<Prp name="line #" type="I" value="13"/>
+					<Prp name="object right" type="I" value="206"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="434"/>
+					<Prp name="click point x" type="I" value="48"/>
+					<Prp name="object left" type="I" value="15"/>
+					<Prp name="click point y" type="I" value="137"/>
+					<Prp name="object top" type="I" value="132"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmSUMMARY.Lst_Com"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage11.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.7323080671"/>
+					<Prp name="line #" type="I" value="13"/>
+					<Prp name="object right" type="I" value="206"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="430"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="15"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="128"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmSUMMARY.Lst_Com"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage11_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="13"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="A click with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.OneWeigh.frmSUMMARY.Lst_Com&#xA;(Sys.Process(&quot;OneWeigh&quot;).VBObject(&quot;frmSUMMARY&quot;).VBObject(&quot;Lst_Com&quot;))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="12"/>
+			<Prp name="message" type="S" value="The list box item '06                                 06' was clicked with the left mouse button."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="13"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.5656424421"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 5">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi8353621873210.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.694224537"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="object right" type="I" value="147"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="168"/>
+					<Prp name="click point x" type="I" value="116"/>
+					<Prp name="object left" type="I" value="83"/>
+					<Prp name="click point y" type="I" value="153"/>
+					<Prp name="object top" type="I" value="140"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.SysMenu.frmStdTemplate_2.ctrl00015_00024cmd"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage4.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.7321837732"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="object right" type="I" value="147"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="168"/>
+					<Prp name="click point x" type="I" value="115"/>
+					<Prp name="object left" type="I" value="83"/>
+					<Prp name="click point y" type="I" value="154"/>
+					<Prp name="object top" type="I" value="140"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.SysMenu.frmStdTemplate_2.ctrl00015_00024cmd"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage4_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.SysMenu.frmStdTemplate_2.ctrl00015_00024cmd&#xA;(Sys.Process(&quot;SysMenu&quot;, 2).VBObject(&quot;frmStdTemplate_2&quot;).VBObject(&quot;ctrl00015_00024cmd&quot;))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="5"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="5"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.5655179167"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 28">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi84075031799663.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.7004513889"/>
+					<Prp name="line #" type="I" value="30"/>
+					<Prp name="object right" type="I" value="180"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="475"/>
+					<Prp name="click point x" type="I" value="136"/>
+					<Prp name="object left" type="I" value="88"/>
+					<Prp name="click point y" type="I" value="461"/>
+					<Prp name="object top" type="I" value="447"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmPRINTF.cmdOK"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage27.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.7324830556"/>
+					<Prp name="line #" type="I" value="30"/>
+					<Prp name="object right" type="I" value="180"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="475"/>
+					<Prp name="click point x" type="I" value="134"/>
+					<Prp name="object left" type="I" value="88"/>
+					<Prp name="click point y" type="I" value="461"/>
+					<Prp name="object top" type="I" value="447"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmPRINTF.cmdOK"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage27_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="30"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.OneWeigh.frmPRINTF.cmdOK&#xA;(Sys.Process(&quot;OneWeigh&quot;).VBObject(&quot;frmPRINTF&quot;).VBObject(&quot;cmdOK&quot;))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="28"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="30"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.5658171991"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 29">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi84079046799666.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.7004976852"/>
+					<Prp name="line #" type="I" value="31"/>
+					<Prp name="object right" type="I" value="351"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="181"/>
+					<Prp name="click point x" type="I" value="-539"/>
+					<Prp name="object left" type="I" value="12"/>
+					<Prp name="click point y" type="I" value="-223"/>
+					<Prp name="object top" type="I" value="161"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.dlgDocumentNumbers.Edit"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage28.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.7324896528"/>
+					<Prp name="line #" type="I" value="31"/>
+					<Prp name="object right" type="I" value="351"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="181"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="12"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="161"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.dlgDocumentNumbers.Edit"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage28_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="31"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="'^c' was sent as a keyboard input to the following window or control.&#xA;&#xA;Tested object:&#xA;Aliases.OneWeigh.dlgDocumentNumbers.Edit&#xA;(Sys.Process(&quot;OneWeigh&quot;).Window(&quot;#32770&quot;, &quot;Document Numbers&quot;, 1).Window(&quot;Edit&quot;, &quot;&quot;, 1))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="29"/>
+			<Prp name="message" type="S" value="Keyboard input."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="31"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.5658242593"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 6">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi8355379673213.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.6944212963"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="object right" type="I" value="1430"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="105"/>
+					<Prp name="click point x" type="I" value="203"/>
+					<Prp name="object left" type="I" value="8"/>
+					<Prp name="click point y" type="I" value="77"/>
+					<Prp name="object top" type="I" value="51"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.SysMenu.frmSysMenu.Toolbar1.msvb_lib_toolbar"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage5.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.7322408333"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="object right" type="I" value="1440"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="97"/>
+					<Prp name="click point x" type="I" value="192"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="click point y" type="I" value="70"/>
+					<Prp name="object top" type="I" value="43"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.SysMenu.frmSysMenu.Toolbar1.msvb_lib_toolbar"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage5_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="A click at point (192, 27) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.SysMenu.frmSysMenu.Toolbar1.msvb_lib_toolbar&#xA;(Sys.Process(&quot;SysMenu&quot;, 2).VBObject(&quot;frmSysMenu&quot;).VBObject(&quot;Toolbar1&quot;).Window(&quot;msvb_lib_toolbar&quot;, &quot;&quot;, 1))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="6"/>
+			<Prp name="message" type="S" value="Toolbar button 3 was clicked."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="6"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.5655752083"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 31">
+			<Prp name="remarks" type="S" value="&lt;!doctype html&gt; &lt;html&gt;&lt;style&gt;body {font-family : Segoe UI, Tahoma, Arial, Helvetica, sans-serif; font-size : 10pt; font-weight : normal; padding : 14px 8px 8px 14px; margin : 0 0 0 0;} p {margin : 4px 0 4px 0; padding : 0 0 0 0;} h4 {font-size: 10pt; font-weight : bold; margin : 12px 0 0 16px; padding : 0 0 0 0;} table {margin-left : 16px; border-top: 1px solid grey;} td {font-size : 10pt; font-weight : normal; padding-left : 8px;} &lt;/style&gt;&lt;style&gt;p, td, th{font-size: 10pt;} td, th {border-bottom: 1px solid #cdcdcd; padding: 2px 10px 2px 10px;} th {text-align: left; background: #cdcdcd; font-weight : normal;}  p {padding : 0; margin : 4 0 4 0px; line-height: 16pt;} table {border: 0px;}&lt;/style&gt;&lt;style&gt;.wide{width: 100%; margin: 0; padding:0; border:0;} .clsimg{width: 200px; margin: auto; border:0} td.row1{width: *;}  td.row2{width: 250px;}&lt;/style&gt;&lt;body&gt;&lt;div class=&quot;wide&quot;&gt;&lt;table class=&quot;wide&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;td class=&quot;row1&quot;&gt;&lt;/td&gt;&lt;td class=&quot;row2&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;Unable to find the following object when executing the &lt;code&gt;ClickButton&lt;/code&gt; command:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;code&gt;Aliases.&amp;#8203;OneWeigh.&amp;#8203;&lt;a href=&quot;lnamemapping://{B1A357B0-1519-44E0-B24A-F7ED5197DCCC}.Aliases.OneWeigh.frmSUMMARY&quot; title=&quot;Missing object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;frmSUMMARY&lt;/span&gt;&lt;/a&gt;.&amp;#8203;fraCommands_2.&amp;#8203;&lt;a href=&quot;lnamemapping://{B1A357B0-1519-44E0-B24A-F7ED5197DCCC}.Aliases.OneWeigh.frmSUMMARY.fraCommands_2.Cmd_Cancel_2&quot; title=&quot;Called object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: blue; font-weight: bold;&quot;&gt;Cmd_Cancel_2&lt;/span&gt;&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b style=&quot;color: #777;&quot;&gt;Reason&lt;/b&gt;&lt;/p&gt;&lt;p&gt;The parent object was not found:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;code&gt;Aliases.&amp;#8203;OneWeigh.&amp;#8203;&lt;a href=&quot;lnamemapping://{B1A357B0-1519-44E0-B24A-F7ED5197DCCC}.Aliases.OneWeigh.frmSUMMARY&quot; title=&quot;Missing object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;frmSUMMARY&lt;/span&gt;&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b style=&quot;color: #777;&quot;&gt;Tips&lt;/b&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top: 10px&quot;&gt;&lt;li&gt;The &lt;span style=&quot;color: red;&quot;&gt;missing object&lt;/span&gt; could be absent during the test run. Check the screenshot on the &lt;a href=&quot;showpicture://pic&quot;&gt;Picture&lt;/a&gt;  tab if the object existed.&lt;/li&gt;&lt;li&gt;If the object existed, &lt;a href=&quot;lnamemapping://{B1A357B0-1519-44E0-B24A-F7ED5197DCCC}.Aliases.OneWeigh.frmSUMMARY&quot;&gt;view and change&lt;/a&gt; its recognition attributes.&lt;/li&gt;&lt;li&gt;If the object didn't exist, check if earlier test steps worked correctly.&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;aqa-help://2201&quot;&gt;Learn more&lt;/a&gt; about possible causes of the error.&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td style=&quot;vertical-align:top;text-align:center&quot;&gt; &lt;a href=&quot;showpicturedialog://%%LogDir%%\{5BF95B82-F7BE-41AC-B9D7-DBD01467D1BD}.png&quot;&gt; &lt;img title=&quot;The expected state of the tested application. The missing object (red frame) and the called test object (blue frame).&quot; class=&quot;clsimg&quot; src=&quot;%%LogDir%%\{5BF95B82-F7BE-41AC-B9D7-DBD01467D1BD}.png&quot;&gt; &lt;/a&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="stack end" type="I" value="0"/>
+			<Prp name="type" type="I" value="3"/>
+			<Prp name="id" type="I" value="31"/>
+			<Prp name="message" type="S" value="The object &quot;Cmd_Cancel_2&quot; does not exist."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="stack beginning" type="I" value="0"/>
+			<Prp name="line no" type="I" value="34"/>
+			<Prp name="picture" type="S" value="Picture1.png"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.5660071065"/>
+			<Prp name="pictype" type="I" value="2"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="400"/>
+		</Node>
+		<Node name="message 24">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi83695515799653.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.6960648148"/>
+					<Prp name="line #" type="I" value="26"/>
+					<Prp name="object right" type="I" value="362"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="566"/>
+					<Prp name="click point x" type="I" value="319"/>
+					<Prp name="object left" type="I" value="270"/>
+					<Prp name="click point y" type="I" value="555"/>
+					<Prp name="object top" type="I" value="538"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmBinAssignment.cmdOk"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage23.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.7323915162"/>
+					<Prp name="line #" type="I" value="26"/>
+					<Prp name="object right" type="I" value="362"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="562"/>
+					<Prp name="click point x" type="I" value="316"/>
+					<Prp name="object left" type="I" value="270"/>
+					<Prp name="click point y" type="I" value="548"/>
+					<Prp name="object top" type="I" value="534"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmBinAssignment.cmdOk"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage23_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="26"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.OneWeigh.frmBinAssignment.cmdOk&#xA;(Sys.Process(&quot;OneWeigh&quot;).VBObject(&quot;frmBinAssignment&quot;).VBObject(&quot;cmdOk&quot;))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="24"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="26"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.5657257755"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 21">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi83671859799642.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.695787037"/>
+					<Prp name="line #" type="I" value="23"/>
+					<Prp name="object right" type="I" value="557"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="573"/>
+					<Prp name="click point x" type="I" value="524"/>
+					<Prp name="object left" type="I" value="497"/>
+					<Prp name="click point y" type="I" value="554"/>
+					<Prp name="object top" type="I" value="533"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmSUMMARY.fraCommands_2.Cmd_Print"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage20.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.7323519329"/>
+					<Prp name="line #" type="I" value="23"/>
+					<Prp name="object right" type="I" value="557"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="569"/>
+					<Prp name="click point x" type="I" value="527"/>
+					<Prp name="object left" type="I" value="497"/>
+					<Prp name="click point y" type="I" value="549"/>
+					<Prp name="object top" type="I" value="529"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmSUMMARY.fraCommands_2.Cmd_Print"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage20_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="23"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.OneWeigh.frmSUMMARY.fraCommands_2.Cmd_Print&#xA;(Sys.Process(&quot;OneWeigh&quot;).VBObject(&quot;frmSUMMARY&quot;).VBObject(&quot;fraCommands_2&quot;).VBObject(&quot;Cmd_Print&quot;))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="21"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="23"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.565688044"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 30">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi84081031799667.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.7005208333"/>
+					<Prp name="line #" type="I" value="32"/>
+					<Prp name="object right" type="I" value="351"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="59"/>
+					<Prp name="click point x" type="I" value="327"/>
+					<Prp name="object left" type="I" value="291"/>
+					<Prp name="click point y" type="I" value="42"/>
+					<Prp name="object top" type="I" value="36"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.dlgDocumentNumbers.btnOK"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage29.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.7324921991"/>
+					<Prp name="line #" type="I" value="32"/>
+					<Prp name="object right" type="I" value="351"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="59"/>
+					<Prp name="click point x" type="I" value="321"/>
+					<Prp name="object left" type="I" value="291"/>
+					<Prp name="click point y" type="I" value="47"/>
+					<Prp name="object top" type="I" value="36"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.dlgDocumentNumbers.btnOK"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage29_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="32"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.OneWeigh.dlgDocumentNumbers.btnOK&#xA;(Sys.Process(&quot;OneWeigh&quot;).Window(&quot;#32770&quot;, &quot;Document Numbers&quot;, 1).Window(&quot;Button&quot;, &quot;OK&quot;, 1))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="30"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="32"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.5658263426"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 8">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi8357218779964.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.6946412037"/>
+					<Prp name="line #" type="I" value="8"/>
+					<Prp name="object right" type="I" value="191"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="573"/>
+					<Prp name="click point x" type="I" value="164"/>
+					<Prp name="object left" type="I" value="131"/>
+					<Prp name="click point y" type="I" value="551"/>
+					<Prp name="object top" type="I" value="533"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmSUMMARY.fraCommands_2.cmdAdd"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage7.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.7322867708"/>
+					<Prp name="line #" type="I" value="8"/>
+					<Prp name="object right" type="I" value="191"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="569"/>
+					<Prp name="click point x" type="I" value="161"/>
+					<Prp name="object left" type="I" value="131"/>
+					<Prp name="click point y" type="I" value="549"/>
+					<Prp name="object top" type="I" value="529"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmSUMMARY.fraCommands_2.cmdAdd"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage7_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="8"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.OneWeigh.frmSUMMARY.fraCommands_2.cmdAdd&#xA;(Sys.Process(&quot;OneWeigh&quot;).VBObject(&quot;frmSUMMARY&quot;).VBObject(&quot;fraCommands_2&quot;).VBObject(&quot;cmdAdd&quot;))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="8"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="8"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.5656210301"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 23">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi83693703799649.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.6960416667"/>
+					<Prp name="line #" type="I" value="25"/>
+					<Prp name="object right" type="I" value="580"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="286"/>
+					<Prp name="click point x" type="I" value="554"/>
+					<Prp name="object left" type="I" value="519"/>
+					<Prp name="click point y" type="I" value="273"/>
+					<Prp name="object top" type="I" value="258"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmBinAssignment.cmdAdd"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage22.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.7323893171"/>
+					<Prp name="line #" type="I" value="25"/>
+					<Prp name="object right" type="I" value="580"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="282"/>
+					<Prp name="click point x" type="I" value="549"/>
+					<Prp name="object left" type="I" value="519"/>
+					<Prp name="click point y" type="I" value="268"/>
+					<Prp name="object top" type="I" value="254"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmBinAssignment.cmdAdd"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage22_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="25"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.OneWeigh.frmBinAssignment.cmdAdd&#xA;(Sys.Process(&quot;OneWeigh&quot;).VBObject(&quot;frmBinAssignment&quot;).VBObject(&quot;cmdAdd&quot;))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="23"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="25"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.5657234606"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 7">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi8355895373216.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.6944791667"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="object right" type="I" value="1438"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="853"/>
+					<Prp name="click point x" type="I" value="-3"/>
+					<Prp name="object left" type="I" value="0"/>
+					<Prp name="click point y" type="I" value="-8"/>
+					<Prp name="object top" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.SysMenu.frmSysMenu"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage6.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.7322510185"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="object right" type="I" value="1448"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="868"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-8"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-8"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.SysMenu.frmSysMenu"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage6_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.SysMenu.frmSysMenu.PopupMenu&#xA;(Sys.Process(&quot;SysMenu&quot;, 2).VBObject(&quot;frmSysMenu&quot;).PopupMenu)"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="7"/>
+			<Prp name="message" type="S" value="The menu item 'Ticket Entry              ' was clicked."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="7"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.5655858565"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 4">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi835353437329.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.694212963"/>
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="object right" type="I" value="251"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="117"/>
+					<Prp name="click point x" type="I" value="-128"/>
+					<Prp name="object left" type="I" value="131"/>
+					<Prp name="click point y" type="I" value="-127"/>
+					<Prp name="object top" type="I" value="98"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.SysMenu.frmStdTemplate_2.ctrl00009_00014fra.ctrl00012_00030txt"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage3.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.7321666551"/>
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="object right" type="I" value="251"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="117"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="131"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="98"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.SysMenu.frmStdTemplate_2.ctrl00009_00014fra.ctrl00012_00030txt"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage3_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.SysMenu.frmStdTemplate_2.ctrl00009_00014fra.ctrl00012_00030txt&#xA;(Sys.Process(&quot;SysMenu&quot;, 2).VBObject(&quot;frmStdTemplate_2&quot;).VBObject(&quot;ctrl00009_00014fra&quot;).VBObject(&quot;ctrl00012_00030txt&quot;))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="4"/>
+			<Prp name="message" type="S" value="The text '6' was entered in the text editor."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="4"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.5655017245"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 22">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi83686250799648.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.6959606481"/>
+					<Prp name="line #" type="I" value="24"/>
+					<Prp name="object right" type="I" value="509"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="354"/>
+					<Prp name="click point x" type="I" value="158"/>
+					<Prp name="object left" type="I" value="11"/>
+					<Prp name="click point y" type="I" value="244"/>
+					<Prp name="object top" type="I" value="216"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmBinAssignment.lvwAvail"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage21.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.7323859606"/>
+					<Prp name="line #" type="I" value="24"/>
+					<Prp name="object right" type="I" value="509"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="350"/>
+					<Prp name="click point x" type="I" value="162"/>
+					<Prp name="object left" type="I" value="11"/>
+					<Prp name="click point y" type="I" value="238"/>
+					<Prp name="object top" type="I" value="212"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmBinAssignment.lvwAvail"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage21_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="24"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="A click with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.OneWeigh.frmBinAssignment.lvwAvail&#xA;(Sys.Process(&quot;OneWeigh&quot;).VBObject(&quot;frmBinAssignment&quot;).VBObject(&quot;lvwAvail&quot;))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="22"/>
+			<Prp name="message" type="S" value="The list view item ('A35', 1) was clicked with the left mouse button."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="24"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.5657211458"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 18">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi83663109799637.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.6956828704"/>
+					<Prp name="line #" type="I" value="20"/>
+					<Prp name="object right" type="I" value="139"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="76"/>
+					<Prp name="click point x" type="I" value="87"/>
+					<Prp name="object left" type="I" value="17"/>
+					<Prp name="click point y" type="I" value="62"/>
+					<Prp name="object top" type="I" value="57"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmWEIGHUPD.fraWeight.txtWeight"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage17.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.7323449884"/>
+					<Prp name="line #" type="I" value="20"/>
+					<Prp name="object right" type="I" value="139"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="76"/>
+					<Prp name="click point x" type="I" value="87"/>
+					<Prp name="object left" type="I" value="17"/>
+					<Prp name="click point y" type="I" value="62"/>
+					<Prp name="object top" type="I" value="57"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmWEIGHUPD.fraWeight.txtWeight"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage17_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="20"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="A click at point (70, 5) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.OneWeigh.frmWEIGHUPD.fraWeight.txtWeight&#xA;(Sys.Process(&quot;OneWeigh&quot;).VBObject(&quot;frmWEIGHUPD&quot;).VBObject(&quot;fraWeight&quot;).VBObject(&quot;txtWeight&quot;))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="18"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="20"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.5656791319"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 2">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi835337967326.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.6941898148"/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="object right" type="I" value="167"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="76"/>
+					<Prp name="click point x" type="I" value="-128"/>
+					<Prp name="object left" type="I" value="131"/>
+					<Prp name="click point y" type="I" value="-127"/>
+					<Prp name="object top" type="I" value="57"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.SysMenu.frmStdTemplate_2.ctrl00009_00014fra.ctrl00010_00030txt"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage1.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.7321607523"/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="object right" type="I" value="167"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="76"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="131"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="57"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.SysMenu.frmStdTemplate_2.ctrl00009_00014fra.ctrl00010_00030txt"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage1_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.SysMenu.frmStdTemplate_2.ctrl00009_00014fra.ctrl00010_00030txt&#xA;(Sys.Process(&quot;SysMenu&quot;, 2).VBObject(&quot;frmStdTemplate_2&quot;).VBObject(&quot;ctrl00009_00014fra&quot;).VBObject(&quot;ctrl00010_00030txt&quot;))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="2"/>
+			<Prp name="message" type="S" value="The text '6' was entered in the text editor."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="2"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.565495706"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 13">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi83594625799622.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.6948958333"/>
+					<Prp name="line #" type="I" value="14"/>
+					<Prp name="object right" type="I" value="696"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="167"/>
+					<Prp name="click point x" type="I" value="646"/>
+					<Prp name="object left" type="I" value="573"/>
+					<Prp name="click point y" type="I" value="147"/>
+					<Prp name="object top" type="I" value="123"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmSUMMARY.cmdWeigh"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage12.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.7323176736"/>
+					<Prp name="line #" type="I" value="14"/>
+					<Prp name="object right" type="I" value="696"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="163"/>
+					<Prp name="click point x" type="I" value="634"/>
+					<Prp name="object left" type="I" value="573"/>
+					<Prp name="click point y" type="I" value="141"/>
+					<Prp name="object top" type="I" value="119"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmSUMMARY.cmdWeigh"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage12_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="14"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.OneWeigh.frmSUMMARY.cmdWeigh&#xA;(Sys.Process(&quot;OneWeigh&quot;).VBObject(&quot;frmSUMMARY&quot;).VBObject(&quot;cmdWeigh&quot;))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="13"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="14"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.5656540162"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 0">
+			<Prp name="remarks" type="S" value="The process ID is 2472."/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="id" type="I" value="0"/>
+			<Prp name="message" type="S" value="The application &quot;C:\Apps\AGRIS\Bin\SysMenu.exe&quot; started."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.5654218634"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="stack"/>
+		<Node name="message 10">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi8357964079969.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.6947222222"/>
+					<Prp name="line #" type="I" value="10"/>
+					<Prp name="object right" type="I" value="677"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="445"/>
+					<Prp name="click point x" type="I" value="197"/>
+					<Prp name="object left" type="I" value="13"/>
+					<Prp name="click point y" type="I" value="105"/>
+					<Prp name="object top" type="I" value="68"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmSUMMARY.Lst_Name_2"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage9.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.7322940625"/>
+					<Prp name="line #" type="I" value="10"/>
+					<Prp name="object right" type="I" value="677"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="441"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="13"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="64"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmSUMMARY.Lst_Name_2"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage9_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="10"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="A click with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.OneWeigh.frmSUMMARY.Lst_Name_2&#xA;(Sys.Process(&quot;OneWeigh&quot;).VBObject(&quot;frmSUMMARY&quot;).VBObject(&quot;Lst_Name_2&quot;))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="10"/>
+			<Prp name="message" type="S" value="The list box item 'FILE, DUANE &amp; QUAKENBUSH TRUST, RH                 FILEDUA3   66.67-33.33                  519' was clicked with the left mouse button."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="10"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.565628206"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 11">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi83582265799613.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.6947569444"/>
+					<Prp name="line #" type="I" value="12"/>
+					<Prp name="object right" type="I" value="236"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="129"/>
+					<Prp name="click point x" type="I" value="224"/>
+					<Prp name="object left" type="I" value="209"/>
+					<Prp name="click point y" type="I" value="116"/>
+					<Prp name="object top" type="I" value="104"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmSUMMARY.fraMain.Frm_Com.Cmd_ComDrop"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage10.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.7323052894"/>
+					<Prp name="line #" type="I" value="12"/>
+					<Prp name="object right" type="I" value="236"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="125"/>
+					<Prp name="click point x" type="I" value="222"/>
+					<Prp name="object left" type="I" value="209"/>
+					<Prp name="click point y" type="I" value="112"/>
+					<Prp name="object top" type="I" value="100"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmSUMMARY.fraMain.Frm_Com.Cmd_ComDrop"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage10_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="12"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.OneWeigh.frmSUMMARY.fraMain.Frm_Com.Cmd_ComDrop&#xA;(Sys.Process(&quot;OneWeigh&quot;).VBObject(&quot;frmSUMMARY&quot;).VBObject(&quot;fraMain&quot;).VBObject(&quot;Frm_Com&quot;).VBObject(&quot;Cmd_ComDrop&quot;))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="11"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="12"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.5656395486"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 32">
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;body&gt;&lt;p&gt;The test execution has stopped because --&lt;/p&gt;&lt;ul&gt;&lt;li&gt;An error message was posted to the log and&lt;/li&gt;&lt;li&gt;The &lt;a href=&quot;aqa-help://6090&quot;&gt;Stop on Error&lt;/a&gt; project property is enabled.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; If you don't want the test to stop on errors, disable this property (&lt;b&gt;Project Editor &amp;rArr; Properties &amp;rArr; Playback&lt;/b&gt;), or change your test commands so that they do not post errors to the log automatically. For instance, if some window or process was not found, use the WaitWindow, WaitProcess or similar methods to obtain the desired object.&lt;/p&gt;&lt;a href=&quot;aqa-help://2207&quot;&gt;Read More&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="stack end" type="I" value="1"/>
+			<Prp name="type" type="I" value="3"/>
+			<Prp name="id" type="I" value="32"/>
+			<Prp name="message" type="S" value="The test run has stopped because the &quot;Stop on Error&quot; setting is enabled."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="stack beginning" type="I" value="1"/>
+			<Prp name="line no" type="I" value="34"/>
+			<Prp name="picture" type="S" value="Picture2.png"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.5660091898"/>
+			<Prp name="pictype" type="I" value="2"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 15">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi83599890799629.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.6949537037"/>
+					<Prp name="line #" type="I" value="16"/>
+					<Prp name="object right" type="I" value="199"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="142"/>
+					<Prp name="click point x" type="I" value="27"/>
+					<Prp name="object left" type="I" value="19"/>
+					<Prp name="click point y" type="I" value="135"/>
+					<Prp name="object top" type="I" value="126"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmWEIGHUPD.fraInOut.optInOut_2"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage14.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.7323289005"/>
+					<Prp name="line #" type="I" value="16"/>
+					<Prp name="object right" type="I" value="199"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="142"/>
+					<Prp name="click point x" type="I" value="109"/>
+					<Prp name="object left" type="I" value="19"/>
+					<Prp name="click point y" type="I" value="134"/>
+					<Prp name="object top" type="I" value="126"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmWEIGHUPD.fraInOut.optInOut_2"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage14_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="16"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="The control state has been changed to 'checked'.&#xA;&#xA;Tested object:&#xA;Aliases.OneWeigh.frmWEIGHUPD.fraInOut.optInOut_2&#xA;(Sys.Process(&quot;OneWeigh&quot;).VBObject(&quot;frmWEIGHUPD&quot;).VBObject(&quot;fraInOut&quot;).VBObject(&quot;optInOut_2&quot;))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="15"/>
+			<Prp name="message" type="S" value="The radio button was clicked with the left mouse button."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="16"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.565663044"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="item 1">
+			<Prp name="line no" type="I" value="34"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="stacktext" type="S" value="Test1_Most_Recent()"/>
+		</Node>
+		<Node name="message 25">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi83711140799658.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.6962384259"/>
+					<Prp name="line #" type="I" value="27"/>
+					<Prp name="object right" type="I" value="557"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="573"/>
+					<Prp name="click point x" type="I" value="513"/>
+					<Prp name="object left" type="I" value="497"/>
+					<Prp name="click point y" type="I" value="548"/>
+					<Prp name="object top" type="I" value="533"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmSUMMARY.fraCommands_2.Cmd_Print"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage24.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.732465"/>
+					<Prp name="line #" type="I" value="27"/>
+					<Prp name="object right" type="I" value="557"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="569"/>
+					<Prp name="click point x" type="I" value="527"/>
+					<Prp name="object left" type="I" value="497"/>
+					<Prp name="click point y" type="I" value="549"/>
+					<Prp name="object top" type="I" value="529"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmSUMMARY.fraCommands_2.Cmd_Print"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage24_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="27"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.OneWeigh.frmSUMMARY.fraCommands_2.Cmd_Print&#xA;(Sys.Process(&quot;OneWeigh&quot;).VBObject(&quot;frmSUMMARY&quot;).VBObject(&quot;fraCommands_2&quot;).VBObject(&quot;Cmd_Print&quot;))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="25"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="27"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.5658018056"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 27">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi83750703799661.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.6967013889"/>
+					<Prp name="line #" type="I" value="29"/>
+					<Prp name="object right" type="I" value="172"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="279"/>
+					<Prp name="click point x" type="I" value="46"/>
+					<Prp name="object left" type="I" value="40"/>
+					<Prp name="click point y" type="I" value="265"/>
+					<Prp name="object top" type="I" value="251"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmPRINTF.fraOutputDevice.optDevice"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage26.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.732481088"/>
+					<Prp name="line #" type="I" value="29"/>
+					<Prp name="object right" type="I" value="172"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="279"/>
+					<Prp name="click point x" type="I" value="106"/>
+					<Prp name="object left" type="I" value="40"/>
+					<Prp name="click point y" type="I" value="265"/>
+					<Prp name="object top" type="I" value="251"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.OneWeigh.frmPRINTF.fraOutputDevice.optDevice"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage26_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="29"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="The control state has been changed to 'checked'.&#xA;&#xA;Tested object:&#xA;Aliases.OneWeigh.frmPRINTF.fraOutputDevice.optDevice&#xA;(Sys.Process(&quot;OneWeigh&quot;).VBObject(&quot;frmPRINTF&quot;).VBObject(&quot;fraOutputDevice&quot;).VBObject(&quot;optDevice&quot;))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="27"/>
+			<Prp name="message" type="S" value="The radio button was clicked with the left mouse button."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="29"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.565815"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="child data"/>
+		<Node name="message 3">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="image file name" type="S" value="tcvi835349537327.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43579.6942013889"/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="object right" type="I" value="251"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="117"/>
+					<Prp name="click point x" type="I" value="159"/>
+					<Prp name="object left" type="I" value="131"/>
+					<Prp name="click point y" type="I" value="105"/>
+					<Prp name="object top" type="I" value="98"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.SysMenu.frmStdTemplate_2.ctrl00009_00014fra.ctrl00012_00030txt"/>
+				</Node>
+				<Node name="current">
+					<Prp name="image file name" type="S" value="visImage2.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="43601.732164919"/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="object right" type="I" value="251"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="117"/>
+					<Prp name="click point x" type="I" value="159"/>
+					<Prp name="object left" type="I" value="131"/>
+					<Prp name="click point y" type="I" value="105"/>
+					<Prp name="object top" type="I" value="98"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value="Aliases.SysMenu.frmStdTemplate_2.ctrl00009_00014fra.ctrl00012_00030txt"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="image file name" type="S" value="visImage2_Dif.png"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object name" type="S" value=""/>
+				</Node>
+			</Node>
+			<Prp name="remarks" type="S" value="A click at point (28, 7) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.SysMenu.frmStdTemplate_2.ctrl00009_00014fra.ctrl00012_00030txt&#xA;(Sys.Process(&quot;SysMenu&quot;, 2).VBObject(&quot;frmStdTemplate_2&quot;).VBObject(&quot;ctrl00009_00014fra&quot;).VBObject(&quot;ctrl00012_00030txt&quot;))"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="id" type="I" value="3"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43601.565498831"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="item 0">
+			<Prp name="line no" type="I" value="34"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="stacktext" type="S" value="Test1_Most_Recent()"/>
+		</Node>
+		<Prp name="status" type="I" value="2"/>
+	</Node>
+</Nodes>

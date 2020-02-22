@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" version="1400" key="{5BEB4BBA-6427-476A-8D98-C05CB864FCF9}" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}">
+	<config nodeName="TestedApps" />
+	<testData />
+	<data />
+	<children>
+		<child key="{73264517-7C44-4610-867A-E94B9FF00482}">
+			<config nodeName="SysMenu" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="" workFolder="C:\Apps\AGRIS\Bin\" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="C:\Apps\AGRIS\Bin\" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="C:\Apps\AGRIS\Bin\" />
+					<param name="Simple" fileName="SysMenu.exe" filePath="C:\Apps\AGRIS\Bin\" parameters="" workFolder="C:\Apps\AGRIS\Bin\" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+		<child key="{CA0BF9B0-EC72-4991-BF56-1140C6A3D91B}">
+			<config nodeName="notepad" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="" workFolder="%HOMEDRIVE%%HOMEPATH%" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="%HOMEDRIVE%%HOMEPATH%" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="%HOMEDRIVE%%HOMEPATH%" />
+					<param name="Simple" fileName="notepad.exe" filePath="C:\Windows\system32\" parameters="" workFolder="%HOMEDRIVE%%HOMEPATH%" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+		<child key="{5FE399C7-2955-44A6-A347-51CDBDD4B0B3}">
+			<config nodeName="powershell" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="" workFolder="%HOMEDRIVE%%HOMEPATH%" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="%HOMEDRIVE%%HOMEPATH%" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="%HOMEDRIVE%%HOMEPATH%" />
+					<param name="Simple" fileName="powershell.exe" filePath="C:\Windows\System32\WindowsPowerShell\v1.0\" parameters="" workFolder="%HOMEDRIVE%%HOMEPATH%" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+		<child key="{F34CA1F4-F99B-4C99-B49B-7E4170FE84D6}">
+			<config nodeName="PowerShell_ISE" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="" workFolder="%HOMEDRIVE%%HOMEPATH%" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="%HOMEDRIVE%%HOMEPATH%" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="%HOMEDRIVE%%HOMEPATH%" />
+					<param name="Simple" fileName="PowerShell_ISE.exe" filePath="C:\Windows\syswow64\WindowsPowerShell\v1.0\" parameters="" workFolder="%HOMEDRIVE%%HOMEPATH%" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+		<child key="{0A777F6C-A45B-4696-BC11-5F1F7CCE1E57}">
+			<config nodeName="PowerShell_ISE1" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="" workFolder="%HOMEDRIVE%%HOMEPATH%" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="%HOMEDRIVE%%HOMEPATH%" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="%HOMEDRIVE%%HOMEPATH%" />
+					<param name="Simple" fileName="PowerShell_ISE.exe" filePath="C:\Windows\system32\WindowsPowerShell\v1.0\" parameters="" workFolder="%HOMEDRIVE%%HOMEPATH%" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>
